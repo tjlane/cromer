@@ -1,0 +1,1 @@
+fo = 39.9947,     fp = (39.6834, 2.26738)give the atom type (i.e. Fe+3), ['Zr']: give the wavelength (Å), ['CuKa1']: 1.5498give the H vector (2π/d) [<cr> --> 0] give the order of interpolation [0,3] [<cr> --> 2]  fo(Zr, 0 1/Å) = 39.9947 ,     mu/rho = 130.789 (cm^2/g) ∆f(Zr, 8.00002 keV) = -0.311229 + i 2.26737  f(Zr, 8.00002 keV, 0 1/Å) = 39.6834 + i 2.26737

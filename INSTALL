@@ -1,0 +1,32 @@
+
+The following is a transcript of an email sent
+from JON TISCHLER to TJ LANE on 11/12/2012
+---------------------------------------------
+
+Instructions:
+
+go into the make_cromer folder and build and run main.c.  This should create the file "XSECTDAT2X.BIN".  It will also create "RECORD.LIST" which you do not need.
+
+copy XSECTDAT2X.BIN to wherever the final executable will be.  The executable needs XSECTDAT2X.BIN to run.
+
+build and run main.c,get_fp.c
+When you run it, use the default values of Zr and 8 keV.
+
+This should produce the same values shown in "old result"
+
+When I run it my console shows:
+
+
+Running…
+warning: this program uses gets(), which is unsafe.
+give the atom type (i.e. Fe+3), ['Zr']: 
+give the energy (KeV) [<cr> --> 8] 
+give the H vector (2π/d) [<cr> --> 0] 
+ fo(Zr, 1.5498 Ang) = 39.9947,     mu/rho = 130.79 (cm^2/g)
+ df(Zr, 8 keV) = 39.6834 + i 2.26738
+
+
+
+Jon
+
+
